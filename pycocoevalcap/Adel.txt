@@ -1,0 +1,5 @@
+
+https://github.com/WingsBrokenAngel/Semantics-AssistedVideoCaptioning      paper github link       TensorFlow
+
+
+https://github.com/sks3i/pycocoevalcap                pycocoevalcap github link for same paper
